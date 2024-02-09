@@ -3,9 +3,9 @@
 Welcome to my GitHub portfolio! I'm a passionate developer with experience in various technologies. Below are some of my notable projects, courses, certificates, and recommended books.
 
 ## Projects
-- 
-This Markdown code will render your Python code as a formatted code block in your README file on GitHub, making it easier for others to read and understand your code.
-## Guess the Number Game
+
+<details>
+<summary>Click to expand Python code</summary>
 
 ```python
 print("Welcome to the Guess the Number game!")
@@ -16,11 +16,10 @@ print("If your guess is closer than your most recent guess, I'll say you're gett
 print("LET'S PLAY!")
 
 while True:
-    
     guess = int(input("I'm thinking of a number between 1 and 100.\n What is your guess? "))
     
     if guess < 1 or guess > 100:
-        print('OUT OF BONDS! Please try again: ')
+        print('OUT OF BOUNDS! Please try again: ')
         continue
     
     if guess == num:
@@ -40,6 +39,10 @@ while True:
             print('WARM!')
         else:
             print('COLD!')
+```
+</details>
+
+
 
 - [Project 2](#): Description of Project 2
 - [Project 3](#): Description of Project 3
