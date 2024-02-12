@@ -2,8 +2,8 @@
 
 Welcome to my GitHub portfolio! I'm a passionate developer with experience in various technologies. Below are some of my notable projects, courses, certificates, and recommended books.
 
-## Projects
-- [Project 2](#): Description of Project 2
+## Code samples
+- [(Learn Python) Tic Tac Toe game](https://github.com/LukaszWilinski95/LukaszWilinski95.github.io/blob/main/(Learn-Python)%20Tic%20Tac%20Toe.py)
 - [Project 3](#): Description of Project 3
 
 ## Courses
