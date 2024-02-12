@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate 
 - [Course 2](#): Description of Course 2
 - [Course 3](#): Description of Course 3
 
-## QA Books I Recommend
+## Books I Recommend
 - [Modern Game Testing](https://www.google.co.uk/books/edition/Modern_Game_Testing/IEDHEAAAQBAJ?hl=en&gbpv=0) by Nikolina Finska
 - [Book 2](#): Description of Book 2
 - [Book 3](#): Description of Book 3
