@@ -1,6 +1,6 @@
 # from IPython.display import clear_output  - Use this for Jupyter
 
-# Board design with clear_output at the beginning to clear previous games
+# Board design with clear_output or printing 100 lines at the beginning to clear previous input
 def display_board(board):
     print('\n' * 100)  # or clear_output() if Jupyter
     print(board[7] + '|' + board[8] + '|' + board[9])
