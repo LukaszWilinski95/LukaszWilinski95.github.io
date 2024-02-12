@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate 
 - [Project 3](#): Description of Project 3
 
 ## Courses & Certificates
-- [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
+- [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) by Jose Portilla
 - [Course 2](#): Description of Course 2
 - [Course 3](#): Description of Course 3
 
