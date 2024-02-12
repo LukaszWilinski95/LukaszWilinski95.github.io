@@ -101,5 +101,13 @@ def tic_tac_toe():
         else:
             current_marker = player1_marker
 
+# Playing again loop
+while True:
+    tic_tac_toe()
+    play_again = input("Play again? [Y or N]: ").upper()
+    if play_again != 'Y':
+        print('Thanks for playing.')
+        break
+
 
 tic_tac_toe()
