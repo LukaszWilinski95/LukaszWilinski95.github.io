@@ -6,15 +6,10 @@ Welcome to my GitHub portfolio! I'm a passionate developer with experience in va
 - [(Learn Python) Tic Tac Toe game](https://github.com/LukaszWilinski95/LukaszWilinski95.github.io/blob/main/(Learn-Python)%20Tic%20Tac%20Toe.py)
 - [Project 3](#): Description of Project 3
 
-## Courses
+## Courses & Certificates
 - [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
 - [Course 2](#): Description of Course 2
 - [Course 3](#): Description of Course 3
-
-## Certificates
-- [Certificate 1](#): Description of Certificate 1
-- [Certificate 2](#): Description of Certificate 2
-- [Certificate 3](#): Description of Certificate 3
 
 ## Books I've Read
 - [Modern Game Testing](https://www.google.co.uk/books/edition/Modern_Game_Testing/IEDHEAAAQBAJ?hl=en&gbpv=0) by Nikolina Finska
