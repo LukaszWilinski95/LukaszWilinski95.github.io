@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate Quality Assurance specialist with experience in various technologies. Below are some of my notable projects, courses, certificates, and recommended books.
+Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate Quality Assurance specialist with experience in various technologies. Below are some of my notable projects, code samples, courses, certificates, and recommended books.
 
 ## Code & Projects Samples
 - [(Python) Tic Tac Toe game](https://github.com/LukaszWilinski95/LukaszWilinski95.github.io/blob/main/(Learn-Python)%20Tic%20Tac%20Toe.py): Python Course Milestone Project #1 
