@@ -17,6 +17,7 @@ Welcome to my GitHub portfolio! I'm a passionate developer with experience in va
 - [Book 3](#): Description of Book 3
 
 ## QA Experience
+- [Call of Duty®: Warzone Mobile™](https://play.google.com/store/apps/details?id=com.activision.callofduty.warzone&hl=en_GB&gl=US) as QA Lead (Language)
 - [Call of Duty®: Modern Warfare® III](https://store.steampowered.com/app/2519060/Call_of_Duty_Modern_Warfare_III/) as QA Lead (Language)
 - [Crash Team Rumble™](https://www.xbox.com/en-GB/games/store/crash-team-rumble-standard-edition/9PLQTD4LT2KS) as QA Lead (Language)
 - [Call of Duty®: Modern Warfare® II](https://store.steampowered.com/app/1962660/Call_of_Duty_Modern_Warfare_II/) as QA Lead (Language)
