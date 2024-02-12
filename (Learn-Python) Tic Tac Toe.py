@@ -90,6 +90,7 @@ def tic_tac_toe():
             # Announce the winner and exit the game loop
             print(f'Player with marker {current_marker} wins!')
             break
+        # Check if there is a tie between both players
         elif check_tie(board):
             display_board(board)
             print('The game is a tie!')
