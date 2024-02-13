@@ -4,17 +4,12 @@ Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate 
 
 ## Code & Projects Samples
 - [(Python) Tic Tac Toe game](https://github.com/LukaszWilinski95/LukaszWilinski95.github.io/blob/main/(Python)%20Tic%20Tac%20Toe.py): Python Course Milestone Project #1 
-- [Project 3](#): Description of Project 3
 
 ## Courses & Certificates
 - [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) by Jose Portilla
-- [Course 2](#): Description of Course 2
-- [Course 3](#): Description of Course 3
 
 ## Books I Recommend
 - [Modern Game Testing](https://www.google.co.uk/books/edition/Modern_Game_Testing/IEDHEAAAQBAJ?hl=en&gbpv=0) by Nikolina Finska
-- [Book 2](#): Description of Book 2
-- [Book 3](#): Description of Book 3
 
 ## QA Experience
 - [Call of Duty®: Warzone Mobile™](https://play.google.com/store/apps/details?id=com.activision.callofduty.warzone&hl=en_GB&gl=US) as QA Lead (Language) in Activision Blizzard
