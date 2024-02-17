@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate Quality Assurance specialist with experience in various technologies. Below are some of my notable projects, code samples, courses, certificates, and recommended books.
 
 ## Code & Projects Samples
-- <a href="https://github.com/LukaszWilinski95/LukaszWilinski95.github.io/blob/main/(Python)%20Blackjack.py" target="_blank">(Python) Blackjack: Python Course Milestone Project #2
+- <a href="https://github.com/LukaszWilinski95/LukaszWilinski95.github.io/blob/main/(Python)%20Blackjack.py" target="_blank">(Python) Blackjack</a>: Python Course Milestone Project #2
 - <a href="https://github.com/LukaszWilinski95/LukaszWilinski95.github.io/blob/main/(Python)%20Tic%20Tac%20Toe.py" target="_blank">(Python) Tic Tac Toe Game</a>: Python Course Milestone Project #1
 - <a href="https://github.com/LukaszWilinski95/LukaszWilinski95.github.io/blob/main/(Excel)%20Strategy_Game_datasheet.xlsx" target="_blank">(Excel) Strategy Game</a>: Balancing / Combat Simulator / Economy Design
 
