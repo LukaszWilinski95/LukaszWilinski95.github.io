@@ -152,7 +152,7 @@ player_chips = Chips()
 
 # GAME LOOP
 while True:
-    print("\nWelcome to BlackJack!\n")
+    print("\nWelcome to Blackack The Game!\n")
 
     deck = Deck()  # Creating a deck of cards
     deck.shuffle()  # Shuffling the deck
