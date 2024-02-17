@@ -1,4 +1,6 @@
-# This is a code written with specified objectives from Python course
+'''
+This is a code written with specified objectives from Python course
+'''
 # from IPython.display import clear_output  - Use this for Jupyter
 
 # Board design with clear_output or printing 100 lines at the beginning to clear previous input
