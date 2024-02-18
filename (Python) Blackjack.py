@@ -72,7 +72,7 @@ class Chips:
         self.bet = 0  # Initial bet amount
 
     def win_bet(self):
-        self.total += self.bet * 2  # Adding the bet amount to the total of chips when there is a win with Dealer
+        self.total += self.bet  # Adding the bet amount to the total of chips when there is a win with Dealer
 
     def lose_bet(self):
         self.total -= self.bet  # Removing the bet amount from the total of chips when there is a loss with Dealer
