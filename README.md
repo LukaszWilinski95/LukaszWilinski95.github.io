@@ -16,6 +16,7 @@ Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate 
 ## QA Experience
 - <a href="https://play.google.com/store/apps/details?id=com.activision.callofduty.warzone&hl=en_GB&gl=US" target="_blank">Call of Duty®: Warzone Mobile™</a> as QA Lead (Language) in Activision Blizzard
 - <a href="https://store.steampowered.com/app/2519060/Call_of_Duty_Modern_Warfare_III/" target="_blank">Call of Duty®: Modern Warfare® III</a> as QA Lead (Language) in Activision Blizzard
+- <a href="https://store.steampowered.com/app/2395210/Tony_Hawks_Pro_Skater_1__2/" target="_blank">Tony Hawk's™ Pro Skater™ 1 + 2</a> as QA Lead (Language) in Activision Blizzard
 - <a href="https://www.xbox.com/en-GB/games/store/crash-team-rumble-standard-edition/9PLQTD4LT2KS" target="_blank">Crash Team Rumble™</a> as QA Lead (Language) in Activision Blizzard
 - <a href="https://store.steampowered.com/app/1962660/Call_of_Duty_Modern_Warfare_II/" target="_blank">Call of Duty®: Modern Warfare® II</a> as QA Lead (Language) in Activision Blizzard
 - <a href="https://store.steampowered.com/app/1962663/Call_of_Duty_Warzone/" target="_blank">Call of Duty®: Warzone™</a> as QA Lead (Language) & QA Tester in Activision Blizzard
