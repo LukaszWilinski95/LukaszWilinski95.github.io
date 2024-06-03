@@ -14,9 +14,7 @@ Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate 
 - <a href="https://www.google.co.uk/books/edition/Modern_Game_Testing/IEDHEAAAQBAJ?hl=en&gbpv=0" target="_blank">Modern Game Testing</a> by Nikolina Finska
 
 ## QA Experience
-- <a href="https://play.google.com/store/apps/details?id=com.activision.callofduty.warzone&hl=en_GB&gl=US" target="_blank">Call of Duty®: Warzone Mobile™</a> as QA Lead (Language) in Activision Blizzard
 - <a href="https://store.steampowered.com/app/2519060/Call_of_Duty_Modern_Warfare_III/" target="_blank">Call of Duty®: Modern Warfare® III</a> as QA Lead (Language) in Activision Blizzard
-- <a href="https://store.steampowered.com/app/2395210/Tony_Hawks_Pro_Skater_1__2/" target="_blank">Tony Hawk's™ Pro Skater™ 1 + 2</a> as QA Lead (Language) in Activision Blizzard
 - <a href="https://www.xbox.com/en-GB/games/store/crash-team-rumble-standard-edition/9PLQTD4LT2KS" target="_blank">Crash Team Rumble™</a> as QA Lead (Language) in Activision Blizzard
 - <a href="https://store.steampowered.com/app/1962660/Call_of_Duty_Modern_Warfare_II/" target="_blank">Call of Duty®: Modern Warfare® II</a> as QA Lead (Language) in Activision Blizzard
 - <a href="https://store.steampowered.com/app/1962663/Call_of_Duty_Warzone/" target="_blank">Call of Duty®: Warzone™</a> as QA Lead (Language) & QA Tester in Activision Blizzard
@@ -24,4 +22,3 @@ Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate 
 - <a href="https://store.steampowered.com/app/1378990/Crash_Bandicoot_4_Its_About_Time/" target="_blank">Crash Bandicoot™ 4: It’s About Time</a> as QA Tester in Activision Blizzard
 - <a href="https://store.steampowered.com/app/1985810/Call_of_Duty_Black_Ops_Cold_War/" target="_blank">Call of Duty®: Black Ops Cold War</a> as QA Tester in Activision Blizzard
 - <a href="https://store.steampowered.com/app/2000950/Call_of_Duty_Modern_Warfare/" target="_blank">Call of Duty®: Modern Warfare®</a> as QA Tester in Activision Blizzard
-- <a href="https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en_GB&gl=US&pli=1" target="_blank">Call of Duty®: Mobile</a> as QA Tester in Activision Blizzard
