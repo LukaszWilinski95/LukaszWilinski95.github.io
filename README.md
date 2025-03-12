@@ -14,11 +14,13 @@ Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate 
 - <a href="https://www.google.co.uk/books/edition/Modern_Game_Testing/IEDHEAAAQBAJ?hl=en&gbpv=0" target="_blank">Modern Game Testing</a> by Nikolina Finska
 
 ## QA Experience
+- <a href="https://store.steampowered.com/app/2469560/Coloniser/" target="_blank">Coloniser</a> as QA Engineer in Magic Media
+- <a href="https://www.nintendo.com/us/store/products/ufo-robot-grendizer-the-feast-of-the-wolves-switch/" target="_blank">UFO Robot Grendizer - The Feast of the Wolves (Nintendo Switch Port)</a> as QA Engineer in Magic Media
 - <a href="https://store.steampowered.com/app/2519060/Call_of_Duty_Modern_Warfare_III/" target="_blank">Call of Duty®: Modern Warfare® III</a> as QA Lead (Language) in Activision Blizzard
 - <a href="https://www.xbox.com/en-GB/games/store/crash-team-rumble-standard-edition/9PLQTD4LT2KS" target="_blank">Crash Team Rumble™</a> as QA Lead (Language) in Activision Blizzard
 - <a href="https://store.steampowered.com/app/1962660/Call_of_Duty_Modern_Warfare_II/" target="_blank">Call of Duty®: Modern Warfare® II</a> as QA Lead (Language) in Activision Blizzard
 - <a href="https://store.steampowered.com/app/1962663/Call_of_Duty_Warzone/" target="_blank">Call of Duty®: Warzone™</a> as QA Lead (Language) & QA Tester in Activision Blizzard
 - <a href="https://store.steampowered.com/app/1985820/Call_of_Duty_Vanguard/" target="_blank">Call of Duty®: Vanguard</a> as QA Tester - Activision Blizzard
-- <a href="https://store.steampowered.com/app/1378990/Crash_Bandicoot_4_Its_About_Time/" target="_blank">Crash Bandicoot™ 4: It’s About Time</a> as QA Tester in Activision Blizzard
+- <a href="https://store.steampowered.com/app/1378990/Crash_Bandicoot_4_Its_About_Time/" target="_blank">Crash Bandicoot™ 4: It’s About Time (PC Port)</a> as QA Tester in Activision Blizzard
 - <a href="https://store.steampowered.com/app/1985810/Call_of_Duty_Black_Ops_Cold_War/" target="_blank">Call of Duty®: Black Ops Cold War</a> as QA Tester in Activision Blizzard
 - <a href="https://store.steampowered.com/app/2000950/Call_of_Duty_Modern_Warfare/" target="_blank">Call of Duty®: Modern Warfare®</a> as QA Tester in Activision Blizzard
