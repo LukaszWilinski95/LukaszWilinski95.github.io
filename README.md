@@ -24,3 +24,5 @@ Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate 
 - <a href="https://store.steampowered.com/app/1378990/Crash_Bandicoot_4_Its_About_Time/" target="_blank">Crash Bandicoot™ 4: It’s About Time (PC Port)</a> as QA Tester in Activision Blizzard
 - <a href="https://store.steampowered.com/app/1985810/Call_of_Duty_Black_Ops_Cold_War/" target="_blank">Call of Duty®: Black Ops Cold War</a> as QA Tester in Activision Blizzard
 - <a href="https://store.steampowered.com/app/2000950/Call_of_Duty_Modern_Warfare/" target="_blank">Call of Duty®: Modern Warfare®</a> as QA Tester in Activision Blizzard
+- <a href="https://www.meta.com/en-gb/experiences/battlecrafter-vr/9307969729267252/?srsltid=AfmBOor4ioFWA_NN_XcfwOB1_bfIXuSUhu2u16uO3eT6LLGHGZQjzgC2" target="_blank">BATTLECRAFTER VR</a> as Credited Playtester in VR Factory
+- <a href="https://www.meta.com/en-gb/experiences/freaky-lab-vr/5550313338425516/?srsltid=AfmBOoq3MrZXinHDwl8L8qEqrRekYBnBi2iAbmDNO-O7h4-yfaGyIHQ-" target="_blank">FREAKY LAB VR</a> as Credited Playtester in VR Factory
