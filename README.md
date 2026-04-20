@@ -1,20 +1,15 @@
 # My Portfolio
 
-Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate Quality Assurance specialist with experience in various technologies. Below are some of my notable projects, code samples, courses, certificates, and recommended books.
+Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate Lead/Senior Quality Assurance Specialist. Below are some of my notable projects, code samples, courses, certificates, and recommended books.
 
 ## Code & Projects Samples
 - <a href="https://github.com/LukaszWilinski95/LukaszWilinski95.github.io/blob/main/(Python)%20Blackjack.py" target="_blank">(Python) Blackjack Game</a>: Python Course Milestone Project #2
 - <a href="https://github.com/LukaszWilinski95/LukaszWilinski95.github.io/blob/main/(Python)%20Tic%20Tac%20Toe.py" target="_blank">(Python) Tic Tac Toe Game</a>: Python Course Milestone Project #1
 - <a href="https://github.com/LukaszWilinski95/LukaszWilinski95.github.io/blob/main/(Excel)%20Strategy_Game_datasheet.xlsx" target="_blank">(Excel) Strategy Game</a>: Balancing / Combat Simulator / Economy Design
 
-## Courses & Certificates
-- <a href="https://www.udemy.com/course/complete-python-bootcamp/" target="_blank">The Complete Python Bootcamp From Zero to Hero in Python</a> by Jose Portilla
-
-## Books I Recommend
-- <a href="https://www.google.co.uk/books/edition/Modern_Game_Testing/IEDHEAAAQBAJ?hl=en&gbpv=0" target="_blank">Modern Game Testing</a> by Nikolina Finska
-
 ## QA Experience
 - <a href="https://store.steampowered.com/app/2469560/Coloniser/" target="_blank">Coloniser</a> as Senior QA Engineer & QA Engineer in Magic Media
+- <a href="https://crypto-backgammon.online/home" target="_blank">Cryptobackgammon</a> as Senior QA Engineer in Magic Media
 - <a href="https://www.nintendo.com/us/store/products/ufo-robot-grendizer-the-feast-of-the-wolves-switch/" target="_blank">UFO Robot Grendizer - The Feast of the Wolves (Nintendo Switch Port)</a> as QA Engineer in Magic Media
 - <a href="https://store.steampowered.com/app/2519060/Call_of_Duty_Modern_Warfare_III/" target="_blank">Call of Duty®: Modern Warfare® III</a> as QA Team Leader in Activision Blizzard
 - <a href="https://www.xbox.com/en-GB/games/store/crash-team-rumble-standard-edition/9PLQTD4LT2KS" target="_blank">Crash Team Rumble™</a> as QA Team Leader in Activision Blizzard
@@ -26,3 +21,9 @@ Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate 
 - <a href="https://store.steampowered.com/app/2000950/Call_of_Duty_Modern_Warfare/" target="_blank">Call of Duty®: Modern Warfare®</a> as QA Tester in Activision Blizzard
 - <a href="https://www.meta.com/en-gb/experiences/battlecrafter-vr/9307969729267252/?srsltid=AfmBOor4ioFWA_NN_XcfwOB1_bfIXuSUhu2u16uO3eT6LLGHGZQjzgC2" target="_blank">BATTLECRAFTER VR</a> as Credited Playtester in VR Factory
 - <a href="https://www.meta.com/en-gb/experiences/freaky-lab-vr/5550313338425516/?srsltid=AfmBOoq3MrZXinHDwl8L8qEqrRekYBnBi2iAbmDNO-O7h4-yfaGyIHQ-" target="_blank">FREAKY LAB VR</a> as Credited Playtester in VR Factory
+
+## Courses & Certificates
+- <a href="https://www.udemy.com/course/complete-python-bootcamp/" target="_blank">The Complete Python Bootcamp From Zero to Hero in Python</a> by Jose Portilla
+
+## Books I Recommend
+- <a href="https://www.google.co.uk/books/edition/Modern_Game_Testing/IEDHEAAAQBAJ?hl=en&gbpv=0" target="_blank">Modern Game Testing</a> by Nikolina Finska
