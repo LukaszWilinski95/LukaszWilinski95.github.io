@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! My name is Lukasz Wilinski and I'm a passionate 
 
 ## QA Experience
 - <a href="https://store.steampowered.com/app/2469560/Coloniser/" target="_blank">Coloniser</a> as Senior QA Engineer & QA Engineer in Magic Media
-- <a href="https://crypto-backgammon.online/home" target="_blank">Cryptobackgammon</a> as Senior QA Engineer in Magic Media
+- <a href="https://crypto-backgammon.online/home" target="_blank">Crypto Backgammon</a> as Senior QA Engineer in Magic Media
 - <a href="https://www.nintendo.com/us/store/products/ufo-robot-grendizer-the-feast-of-the-wolves-switch/" target="_blank">UFO Robot Grendizer - The Feast of the Wolves (Nintendo Switch Port)</a> as QA Engineer in Magic Media
 - <a href="https://store.steampowered.com/app/2519060/Call_of_Duty_Modern_Warfare_III/" target="_blank">Call of Duty®: Modern Warfare® III</a> as QA Team Leader in Activision Blizzard
 - <a href="https://www.xbox.com/en-GB/games/store/crash-team-rumble-standard-edition/9PLQTD4LT2KS" target="_blank">Crash Team Rumble™</a> as QA Team Leader in Activision Blizzard
